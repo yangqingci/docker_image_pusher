@@ -1,1 +1,2 @@
 nginx:1.12.0
+agilestacks/fluentd-elasticsearch:1.3.0
