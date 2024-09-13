@@ -1,1 +1,1 @@
-quay.io/prometheus/alertmanager:v0.26.0
+docker.io/library/elasticsearch:7.9.3
