@@ -1,1 +1,1 @@
-docker.io/library/elasticsearch:7.9.3
+alpine:3.6
