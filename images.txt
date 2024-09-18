@@ -1,1 +1,1 @@
-docker.io/kubeimages/kibana:7.9.3
+postgres:14.2
